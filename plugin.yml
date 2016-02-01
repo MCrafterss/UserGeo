@@ -1,0 +1,14 @@
+name: UserGeo
+version: 1.0.0
+author: applqpak
+api: [1.0.0]
+main: UserGeo\Main
+commands:
+  usergeo:
+    description: Get A Users Geo Location!
+    usage: "/usergeo <player> < city | hostname | region | country >"
+    aliases: [geo]
+    permission: usergeo.command
+permissions:
+  usergeo.command:
+    default: op
