@@ -1,6 +1,6 @@
 name: UserGeo
 version: 1.0.0
-author: applqpak
+author: MCrafters
 api: [1.0.0]
 main: UserGeo\Main
 commands:
